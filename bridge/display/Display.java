@@ -1,4 +1,6 @@
-package bridge;
+package bridge.display;
+
+import bridge.display.DisplayImpl;
 
 public class Display {
     private DisplayImpl impl;

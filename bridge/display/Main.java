@@ -1,4 +1,4 @@
-package bridge;
+package bridge.display;
 
 public class Main {
     public static void main(String[] args) {
